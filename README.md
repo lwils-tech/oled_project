@@ -41,7 +41,7 @@ sudo apt-get install -y git</code>
 ### 3. Download Repository from GitHub
 Clone the repository and navigate to the project directory:
 
-<code>git clone https://github.com/souvikroyc/oled_project.git
+<code>git clone https://github.com/lwils-tech/oled_project.git
 cd oled_project</code>
 
 ### 4. Execute the Installation Script
